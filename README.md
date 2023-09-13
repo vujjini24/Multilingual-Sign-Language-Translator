@@ -8,5 +8,5 @@ Objective:
 
 •	To build a multiple sign language translator, which can take communications in one sign language and translate them into written text as well as other sign language hand gesture representations to enable trilingual communication. 
 
-The proposed system uses three of the most recognised sign languages named American Sign Language (ASL), German Sign Language (GSL) and Indian Sign Language (ISL) image datasets that will be pre-processed based on threshold and intensity. 
+The proposed system uses three of the most recognised sign languages named American Sign Language (ASL), German Sign Language (GSL) and Indian Sign Language (ISL) image datasets. 
 
